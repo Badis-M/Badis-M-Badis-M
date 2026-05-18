@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/merakchi/">
     <img src="https://img.shields.io/badge/LinkedIn-Badis%20Merakchi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+    <a href="https://portfolio.badismerakchi.com/">
+    <img src="https://img.shields.io/badge/Portfolio-portfolio.badismerakchi.com-6366F1?style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio Badge"/>
+  </a>
   <a href="https://github.com/Badis-M">
     <img src="https://img.shields.io/badge/GitHub-Badis--M-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
